@@ -1,0 +1,52 @@
+
+.title {
+    font-family: 'Pattaya';
+    text-align: center;
+    background-color: #F2CC0F;
+    color: #9453A6;
+    font-size: 40px;
+}
+
+.background {
+    background: url(images/bgi2.png) no-repeat;
+    background-size: cover;
+    height: 200px;
+}
+
+.accordion {
+    font-size: 20px;
+    background-color: #F2CC0F
+}
+
+.accordion button {
+    font-family: 'Henny Penny';
+    color: #0d0d0d;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.accordion button:hover {
+    background-color: #8CBF3F;
+    color: #0D0D0D;
+}
+
+.accordion .card-body {
+    font-family: "Roboto";
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    width: 100%;
+    height: 10vh;
+    background-color: #0D0D0D;
+    color: #f2f2f2;
+    font-family: "Roboto";
+}
+.violet {
+    background-color: #9453A6;
+}
+.yellow {
+    background-color: #F2CC0F;
+}
+
